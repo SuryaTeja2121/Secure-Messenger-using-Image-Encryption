@@ -9,5 +9,4 @@ The final encrypted file is in a '.enc' format, and consists of meaningless symb
 
 Please view the Research Paper provided in the main directoy to see detailed information on the ecnryption and decryption processes along with images...
 
-Thank You,
-Surya Teja Chavali
+Thank You.
